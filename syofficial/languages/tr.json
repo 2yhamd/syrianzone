@@ -14,7 +14,7 @@
         "governorates": "Valilikler",
         "ministries": "Bakanlıklar",
         "ministers": "Bakanlar",
-        "public_figures": "Kamu Görevlileri",
+        "public_figures": "Kamu Figürleri",
         "syndicates": "Sendikalar",
         "universities": "Üniversiteler",
         "embassies": "Büyükelçilikler",
@@ -24,7 +24,7 @@
         "governorates": "Valilikler",
         "ministries": "Bakanlıklar",
         "ministers": "Bakanlar",
-        "public_figures": "Kamu Görevlileri",
+        "public_figures": "Kamu Figürleri",
         "syndicates": "Sendikalar",
         "universities": "Üniversiteler",
         "embassies": "Büyükelçilikler",
@@ -34,15 +34,15 @@
         "name": "İsim",
         "description": "Açıklama",
         "socialLinks": "Sosyal Medya Bağlantıları",
-        "noLinks": "Bağlantı mevcut değil"
+        "noLinks": "Bu Platformda Resmi hesabı yoktur"
     },
     "modal": {
         "title": "Sosyal Medya Bağlantıları",
         "close": "Kapat",
-        "noSocialLinks": "Sosyal medya bağlantısı mevcut değil"
+        "noSocialLinks": "Bu Platformda Resmi hesabı yoktur"
     },
     "view": {
-        "grid": "Izgara Görünümü",
+        "grid": "Kart Görünümü",
         "table": "Tablo Görünümü"
     },
     "social": {
@@ -51,8 +51,8 @@
     },
     "footer": {
         "copyright": "© 2025 Suriye Resmi Kurumları Sosyal Medya Bağlantıları",
-        "developedBy": "Geliştiren",
+        "developedBy": "Hazırlayan",
         "personalWebsite": "Kişisel Web Sitesi",
         "xAccount": "X Hesabı"
     }
-} 
+}
